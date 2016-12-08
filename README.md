@@ -1,2 +1,2 @@
 # SIG-Divina
-Repositório para o Projecto Final - SIG para o Sie Maste do Hospital Divina Providência
+Repositório para o Projecto Final - SIG para o Hospital Divina Providência
